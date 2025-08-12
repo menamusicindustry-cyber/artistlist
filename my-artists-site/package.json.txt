@@ -1,0 +1,6 @@
+{
+  "name": "artists-directory",
+  "private": true,
+  "dependencies": { "xlsx": "^0.18.5" },
+  "scripts": { "dev": "vercel dev" }
+}
